@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+body {
+    background-image: url("/whitedragon.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  font-family: "fantasy", monospace;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+}
+
+h1 {
+  font-family: "fantasy", monospace;
+  font-size: 32px;
+  text-align: center;
+  color: #1b4484;
+}
+
+p1 {
+    font-family:"fantasy", fantasy;
+    font-size: 20px;
+    text-align: right;
+      color:#e5e5e5;
+}
+
+
+
