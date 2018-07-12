@@ -1,0 +1,27 @@
+body, html {
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: #09224c;
+  text-align: center;
+  height: 100%;
+}
+
+
+p1 {
+  font-family: "Open Sans", monospace;
+  font-size: 20px; 
+}
+
+p2 {
+    font-family:"Fantasy", fantasy;
+    font-size: 15px;
+}
+.bg {
+  background-image: url("whitedragon.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
