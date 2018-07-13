@@ -1,6 +1,6 @@
 body, html {
   font-family: "Open Sans", sans-serif;
-  padding: 5px 5px;
+  padding: 5px 25px;
   font-size: 18px;
   margin: 0;
   color: #09224c;
@@ -12,24 +12,12 @@ body, html {
 p1 {
   font-family: "Open Sans", monospace;
   font-size: 20px; 
-  margin: 1px;
-  text-align: right;
 }
 
-
-
-.column {
-    float: left;
-    width: 50%;
+p2 {
+    font-family:"Fantasy", fantasy;
+    font-size: 15px;
 }
-
-/* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
 #textbox {
   padding: 15px;
   background-color: #e2edff;
