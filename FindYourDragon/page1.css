@@ -23,11 +23,15 @@ p1 {
     font-family:"fantasy", fantasy;
     font-size: 20px;
     text-align: right;
-      color:#e5e5e5;
+      color:#486da8;
 }
 #textbox {
   padding: 15px;
-  background-color: #474747;
+  background-color: #e2edff;
+}
+
+#grad {
+    background: linear-gradient(#e2edff, #c1ffe2);
 }
 
 

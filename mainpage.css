@@ -27,3 +27,12 @@ p1 {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+#textbox {
+  padding: 15px;
+  background-color: #e2edff;
+}
+
+#grad {
+    background: linear-gradient(#e2edff, #c1ffe2);
+}
